@@ -3,4 +3,5 @@ console.log('adad');
 if (true) {
     console.log("hello");
 }
-asdasdasds;
+
+console.log("Hello from development")
