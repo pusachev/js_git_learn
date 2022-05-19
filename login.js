@@ -6,4 +6,4 @@ if (true) {
 
 
 console.log("Glory to Ukraine");
-console.log("Hello from development")
+console.log("Hello from development");
